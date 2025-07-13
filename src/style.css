@@ -2,3 +2,11 @@ h1 {
   color: green;
   background: #000;
 }
+
+hr {
+  border-top: 1px solid red;
+}
+
+div {
+  max-width: 1200px;
+}
