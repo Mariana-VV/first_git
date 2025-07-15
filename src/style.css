@@ -10,3 +10,6 @@ body {
   color: blue;
   background: beige;
 }
+div {
+  max-width: 1200px;
+}
