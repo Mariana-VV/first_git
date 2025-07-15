@@ -12,4 +12,5 @@ body {
 }
 div {
   max-width: 1200px;
+  border: 2px solid red;
 }
